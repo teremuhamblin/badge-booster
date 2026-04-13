@@ -21,3 +21,5 @@
 5. Laisse Dependabot créer une PR  
 6. Merge-la  
 7. Profite des badges
+
+> À Tester ...
